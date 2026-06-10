@@ -1,3 +1,10 @@
+Copyright © 2026 Ansh Yadav
+
+All rights reserved.
+
+This source code may not be copied, modified, distributed, or used without explicit written permission from the author.
+
+
 # Word Frequency Analyzer
 **IIT Mandi Mini Project** — Built with Next.js + Claude AI
 
